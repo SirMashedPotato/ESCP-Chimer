@@ -9,9 +9,9 @@
 		<match Class="PatchOperationAdd">
 			<xpath>/Defs/FactionDef[defName="Empire"]/permanentEnemyToEveryoneExcept</xpath>
 			<value>
-				<li>ESCP_ChimerPlayerColony</li>
-				<li>ESCP_ChimerPlayerTribe</li>
-				<li>ESCP_ChimerPlayerKingdom</li>
+				<li>ESCP_ChimerPlayerFaction_Industrial</li>
+				<li>ESCP_ChimerPlayerFaction_Medieval</li>
+				<li>ESCP_ChimerPlayerFaction_Tribal</li>
 			</value>
 		</match>
 	</Operation>

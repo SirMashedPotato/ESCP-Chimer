@@ -7,8 +7,8 @@
 			<alienslavekinds>
 				<li>
 					<kindDefs>
-						<li>ESCP_ChimerKind</li>
-						<li>ESCP_ChimerTribalKind</li>
+						<li>ESCP_ChimerPlayerPawnKind_Outlander</li>
+						<li>ESCP_ChimerPlayerPawnKind_Tribal</li>
 					</kindDefs>
 					<chance>5.0</chance>
 				</li>
@@ -17,8 +17,8 @@
 			<alienrefugeekinds>
 				<li>
 					<kindDefs>
-						<li>ESCP_ChimerKind</li>
-						<li>ESCP_ChimerTribalKind</li>
+						<li>ESCP_ChimerPlayerPawnKind_Outlander</li>
+						<li>ESCP_ChimerPlayerPawnKind_Tribal</li>
 					</kindDefs>
 					<chance>10.0</chance>
 				</li>
@@ -28,7 +28,7 @@
 					<pawnKindEntries>
 						<li>
 							<kindDefs>
-								<li>ESCP_ChimerKind</li>
+								<li>ESCP_ChimerPlayerPawnKind_Outlander</li>
 							</kindDefs>
 							<chance>2.0</chance>
 						</li>
@@ -41,7 +41,7 @@
 					<pawnKindEntries>
 						<li>
 							<kindDefs>
-								<li>ESCP_ChimerTribalKind</li>
+								<li>ESCP_ChimerPlayerPawnKind_Tribal</li>
 							</kindDefs>
 							<chance>0.1</chance>
 						</li>
@@ -56,39 +56,39 @@
 					<pawnKindEntries>
 						<li>
 							<kindDefs>
-								<li>ESCP_ChimerKind</li>
+								<li>ESCP_ChimerPlayerPawnKind_Outlander</li>
 							</kindDefs>
 							<chance>100.0</chance>
 						</li>
 					</pawnKindEntries>
 					<factionDefs>
-						<li>ESCP_ChimerPlayerColony</li> 
+						<li>ESCP_ChimerPlayerFaction_Industrial</li> 
 					</factionDefs>
 				</li>
 				<li>
 					<pawnKindEntries>
 						<li>
 							<kindDefs>
-								<li>ESCP_ChimerTribalKind</li>
+								<li>ESCP_ChimerPlayerPawnKind_Medieval</li>
 							</kindDefs>
 							<chance>100.0</chance>
 						</li>
 					</pawnKindEntries>
 					<factionDefs>
-						<li>ESCP_ChimerPlayerTribe</li> 
+						<li>ESCP_ChimerPlayerFaction_Medieval</li> 
 					</factionDefs>
 				</li>
 				<li>
 					<pawnKindEntries>
 						<li>
 							<kindDefs>
-								<li>ESCP_ChimerMedievalKind</li>
+								<li>ESCP_ChimerPlayerPawnKind_Tribal</li>
 							</kindDefs>
 							<chance>100.0</chance>
 						</li>
 					</pawnKindEntries>
 					<factionDefs>
-						<li>ESCP_ChimerPlayerKingdom</li> 
+						<li>ESCP_ChimerPlayerFaction_Tribal</li> 
 					</factionDefs>
 				</li>
 			</alienwandererkinds>

@@ -1,48 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
+	<!-- ========== [ESCP_Chimer_NamerMale] ========== -->
 	<RulePackDef>
-		<defName>ESCP_NamerPersonChimerMale</defName>
-		<include>
-		  <li>TribalWordUtility</li>
-		</include>
+		<defName>ESCP_Chimer_NamerMale</defName>
 		<rulePack>
 			<rulesStrings>
 				<li>name->[MaleList] [FamilyList]</li>
 			</rulesStrings>
-			<rulesRaw>
-				<li Class="Rule_File">
-					<keyword>MaleList</keyword>
-					<path>ESCP_DunmerNames/DunmerMale</path>
-				</li>
-				<li Class="Rule_File">
-					<keyword>FamilyList</keyword>
-					<path>ESCP_DunmerNames/DunmerFamily</path>
-				</li>
-			</rulesRaw>
+			<rulesFiles>
+				<li>MaleList->ESCP_DunmerNames/DunmerMale</li>
+				<li>FamilyList->ESCP_DunmerNames/DunmerFamily</li>
+			</rulesFiles>
 		</rulePack>
 	</RulePackDef>
-
+	<!-- ========== [ESCP_Chimer_NamerFemale] ========== -->
 	<RulePackDef>
-		<defName>ESCP_NamerPersonChimerFemale</defName>
-		<include>
-		  <li>TribalWordUtility</li>
-		</include>
+		<defName>ESCP_Chimer_NamerFemale</defName>
 		<rulePack>
 			<rulesStrings>
 				<li>name->[FemaleList] [FamilyList]</li>
 			</rulesStrings>
-			<rulesRaw>
-				<li Class="Rule_File">
-					<keyword>FemaleList</keyword>
-					<path>ESCP_DunmerNames/DunmerFemale</path>
-				</li>
-				<li Class="Rule_File">
-					<keyword>FamilyList</keyword>
-					<path>ESCP_DunmerNames/DunmerFamily</path>
-				</li>
-			</rulesRaw>
+			<rulesFiles>
+				<li>FemaleList->ESCP_DunmerNames/DunmerFemale</li>
+				<li>FamilyList->ESCP_DunmerNames/DunmerFamily</li>
+			</rulesFiles>
 		</rulePack>
 	</RulePackDef>
-	
 </Defs>
