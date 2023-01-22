@@ -4,10 +4,8 @@
 		<defName>ESCP_ChimerStyle</defName>
 		<label>Chimeri</label>
 		<iconPath>World/WorldObjects/Expanding/ESCP_ChimerSettlement</iconPath>
-		<!--
-    <soundOngoingRitual>RitualSustainer_Hindu</soundOngoingRitual>
-    <ritualVisualEffectDef>Hindu</ritualVisualEffectDef>
-	-->
+		<soundOngoingRitual>RitualSustainer_Morbid</soundOngoingRitual>
+		<ritualVisualEffectDef>ESCP_ChimerRitualStyle</ritualVisualEffectDef>
 		<thingDefStyles>
 			<!-- Don't remove this, it breaks world gen -->
 		</thingDefStyles>
