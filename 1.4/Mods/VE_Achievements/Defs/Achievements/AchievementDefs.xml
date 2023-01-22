@@ -5,7 +5,6 @@
 		<defName>ESCP_AchievementChimer_ChimerColonists</defName>
 		<label>The End of a Voyage</label>
 		<description>Have 20 Chimer in your colony at the same time</description>
-		<bgtexPath>Achievements/ESCP_AchievementBackgroundChimer</bgtexPath>
 		<tracker Class="AchievementsExpanded.RaceDefTracker">
 			<raceDefs>
 				<li>
@@ -22,7 +21,6 @@
 		<defName>ESCP_AchievementChimer_ChimerSlayer</defName>
 		<label>I Thought They Were Altmer</label>
 		<description>Slay 50 Chimer</description>
-		<bgtexPath>Achievements/ESCP_AchievementBackgroundChimer</bgtexPath>
 		<tracker Class="AchievementsExpanded.KillTracker">
 			<raceDef>ESCP_ChimerRace</raceDef>
 			<count>50</count>
@@ -35,7 +33,6 @@
 		<defName>ESCP_AchievementChimer_DestroyChimerSettlement</defName>
 		<label>Go Back to Whence You Came</label>
 		<description>Destroy a Chimer settlement belonging to the Chimer Pilgrims faction</description>
-		<bgtexPath>Achievements/ESCP_AchievementBackgroundChimer</bgtexPath>
 		<tracker Class="AchievementsExpanded.SettlementDefeatTracker">
 			<def>ESCP_ChimerTribeCivil</def>
 			<count>1</count>
