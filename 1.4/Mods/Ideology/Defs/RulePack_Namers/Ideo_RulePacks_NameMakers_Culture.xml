@@ -16,6 +16,7 @@
 				<li>cultureLeaderAdjective->first</li>
 				<li>cultureLeaderAdjective->grand</li>
 				<li>cultureLeaderNoun->master</li>
+				<li>cultureLeaderNoun->prophet</li>
 			</rulesStrings>
 		</rulePack>
 	</RulePackDef>
@@ -23,19 +24,12 @@
 	<RulePackDef>
 		<defName>ESCP_Chimer_NamerCultureDeityName</defName>
 		<include>
-			<li>NamerDeityGlobal</li>
+			<li>ESCP_Chimer_NamerSaint</li>
 		</include>
 		<rulePack>
 			<rulesStrings>
-				<li>name(p=1)->Saint [DunmerSaints]</li>
-				<li>name(p=0.5)->Saint [MaleList]</li>
-				<li>name(p=0.5)->Saint [FemaleList]</li>
+				<li>name->[chimerSaint]</li>
 			</rulesStrings>
-			<rulesFiles>
-				<li>DunmerSaints->ESCP_DunmerNames/DunmerSaints</li>
-				<li>MaleList->ESCP_DunmerNames/DunmerMale</li>
-				<li>FemaleList->ESCP_DunmerNames/DunmerFemale</li>
-			</rulesFiles>
 		</rulePack>
 	</RulePackDef>
 	<!-- ==========[ESCP_Chimer_NamerCultureDeityType]========== -->

@@ -117,6 +117,7 @@
 					<ESCP_Chimer_Tribal_Trader>1</ESCP_Chimer_Tribal_Trader>
 				</traders>
 				<carriers>
+					<MorrowRim_Guar MayRequireAnyOf="SirMashedPotato.MorrowRim,SirMashedPotato.MorrowRim.JustTheAnimals">10</MorrowRim_Guar>
 					<Muffalo>6</Muffalo>
 					<Dromedary>5</Dromedary>
 					<Alpaca>2.5</Alpaca>

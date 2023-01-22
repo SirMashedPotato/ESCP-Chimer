@@ -4,17 +4,17 @@
 	<AchievementsExpanded.AchievementDef ParentName="ESCP_Achievement_Base">
 		<defName>ESCP_AchievementChimer_ChimerColonists</defName>
 		<label>The End of a Voyage</label>
-		<description>Have 20 Chimer in your colony at the same time</description>
+		<description>Have 12 Chimer in your colony at the same time</description>
 		<tracker Class="AchievementsExpanded.RaceDefTracker">
 			<raceDefs>
 				<li>
 					<key>ESCP_ChimerRace</key>
-					<value>20</value>
+					<value>12</value>
 				</li>
 			</raceDefs>
 		</tracker>
 		<texPath>Achievements/ESCP_AchievementChimer_ChimerColonists</texPath>
-		<points>30</points>
+		<points>25</points>
 	</AchievementsExpanded.AchievementDef>
 	<!-- ==========[ESCP_AchievementChimer_ChimerColonists]========== -->
 	<AchievementsExpanded.AchievementDef ParentName="ESCP_Achievement_Base">
