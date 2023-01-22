@@ -34,7 +34,7 @@
 		<label>Go Back to Whence You Came</label>
 		<description>Destroy a Chimer settlement belonging to the Chimer Pilgrims faction</description>
 		<tracker Class="AchievementsExpanded.SettlementDefeatTracker">
-			<def>ESCP_ChimerTribeCivil</def>
+			<def>ESCP_ChimerNonPlayerFaction_Civil</def>
 			<count>1</count>
 		</tracker>
 		<texPath>Achievements/ESCP_AchievementChimer_DestroyChimerSettlement</texPath>
