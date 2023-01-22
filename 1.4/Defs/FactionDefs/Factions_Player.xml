@@ -6,7 +6,7 @@
 		<basicMemberKind>ESCP_ChimerPlayerPawnKind_Outlander</basicMemberKind>
 		<factionIconPath>World/WorldObjects/Expanding/ESCP_ChimerSettlement</factionIconPath>
 		<allowedCultures>
-			<li>ESCP_Chimeri</li>
+			<li>ESCP_ChimerCulture</li>
 		</allowedCultures>
 		<startingResearchTags>
 			<li>ESCP_ChimerStart_Industrial</li>
@@ -18,7 +18,7 @@
 		<basicMemberKind>ESCP_ChimerPlayerPawnKind_Medieval</basicMemberKind>
 		<factionIconPath>World/WorldObjects/Expanding/ESCP_ChimerSettlement</factionIconPath>
 		<allowedCultures>
-			<li>ESCP_Chimeri</li>
+			<li>ESCP_ChimerCulture</li>
 		</allowedCultures>
 		<startingResearchTags>
 			<li>ESCP_ChimerStart_Medieval</li>
@@ -30,7 +30,7 @@
 		<basicMemberKind>ESCP_ChimerPlayerPawnKind_Tribal</basicMemberKind>
 		<factionIconPath>World/WorldObjects/Expanding/ESCP_ChimerSettlement</factionIconPath>
 		<allowedCultures>
-			<li>ESCP_Chimeri</li>
+			<li>ESCP_ChimerCulture</li>
 		</allowedCultures>
 		<startingResearchTags>
 			<li>ESCP_ChimerStart_Tribal</li>
