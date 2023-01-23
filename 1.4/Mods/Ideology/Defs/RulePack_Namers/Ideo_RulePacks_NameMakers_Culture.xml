@@ -25,6 +25,7 @@
 		<defName>ESCP_Chimer_NamerCultureDeityName</defName>
 		<include>
 			<li>ESCP_Chimer_NamerSaint</li>
+			<li>NamerDeityGlobal</li>
 		</include>
 		<rulePack>
 			<rulesStrings>
