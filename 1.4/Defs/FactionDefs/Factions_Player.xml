@@ -11,6 +11,12 @@
 		<startingResearchTags>
 			<li>ESCP_ChimerStart_Industrial</li>
 		</startingResearchTags>
+		<li Class="ESCP_RaceTools.FactionProperties">
+			<factionTags>
+				<li>ESCP_ChimerFaction</li>
+				<li>ESCP_ChimerFactionPlayer</li>
+			</factionTags>
+		</li>
 	</FactionDef>
 	<!-- ========== [ESCP_ChimerPlayerFactionBase_Tribal] ========== -->
 	<FactionDef ParentName="ESCP_PlayerFactionBase_Medieval">
@@ -23,6 +29,12 @@
 		<startingResearchTags>
 			<li>ESCP_ChimerStart_Medieval</li>
 		</startingResearchTags>
+		<li Class="ESCP_RaceTools.FactionProperties">
+			<factionTags>
+				<li>ESCP_ChimerFaction</li>
+				<li>ESCP_ChimerFactionPlayer</li>
+			</factionTags>
+		</li>
 	</FactionDef>
 	<!-- ========== [ESCP_ChimerPlayerFactionBase_Tribal] ========== -->
 	<FactionDef ParentName="ESCP_PlayerFactionBase_Tribal">
@@ -35,5 +47,11 @@
 		<startingResearchTags>
 			<li>ESCP_ChimerStart_Tribal</li>
 		</startingResearchTags>
+		<li Class="ESCP_RaceTools.FactionProperties">
+			<factionTags>
+				<li>ESCP_ChimerFaction</li>
+				<li>ESCP_ChimerFactionPlayer</li>
+			</factionTags>
+		</li>
 	</FactionDef>
 </Defs>

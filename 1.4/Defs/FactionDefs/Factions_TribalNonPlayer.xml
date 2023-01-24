@@ -17,6 +17,12 @@
 				<onlyCoastal>true</onlyCoastal>
 				<IgnoreBiomeSelectionWeight>true</IgnoreBiomeSelectionWeight>
 			</li>
+			<li Class="ESCP_RaceTools.FactionProperties">
+				<factionTags>
+					<li>ESCP_ChimerFaction</li>
+					<li>ESCP_ChimerFactionNonPlayer</li>
+				</factionTags>
+			</li>
 		</modExtensions>
 		<settlementGenerationWeight>0.5</settlementGenerationWeight>
 		<leaderTitle>great-prophet</leaderTitle>

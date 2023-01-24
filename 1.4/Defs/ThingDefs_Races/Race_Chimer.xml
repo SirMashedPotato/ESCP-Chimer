@@ -126,11 +126,6 @@
 					<li MayRequire="Ludeon.RimWorld.Biotech">ESCP_GeneInheritedBonus_Chimer</li>
 				</blackGeneList>
 			</raceRestriction>
-			<compatibility>
-				<isFlesh>true</isFlesh>
-				<isSentient>true</isSentient>
-				<hasBlood>true</hasBlood>
-			</compatibility>
 		</alienRace>
 	</AlienRace.ThingDef_AlienRace>
 </Defs>
