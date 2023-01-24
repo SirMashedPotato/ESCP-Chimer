@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
 	<AlienRace.RaceSettings>
 		<defName>ESCP_ChimerRaceSettings</defName>
 		<pawnKindSettings>
@@ -13,7 +12,6 @@
 					<chance>5.0</chance>
 				</li>
 			</alienslavekinds>
-
 			<alienrefugeekinds>
 				<li>
 					<kindDefs>
@@ -34,7 +32,7 @@
 						</li>
 					</pawnKindEntries>
 					<factionDefs>
-						<li>PlayerColony</li> 
+						<li>PlayerColony</li>
 					</factionDefs>
 				</li>
 				<li>
@@ -47,7 +45,7 @@
 						</li>
 					</pawnKindEntries>
 					<factionDefs>
-						<li>PlayerTribe</li> 
+						<li>PlayerTribe</li>
 					</factionDefs>
 				</li>
 			</startingColonists>
@@ -62,7 +60,7 @@
 						</li>
 					</pawnKindEntries>
 					<factionDefs>
-						<li>ESCP_ChimerPlayerFaction_Industrial</li> 
+						<li>ESCP_ChimerPlayerFaction_Industrial</li>
 					</factionDefs>
 				</li>
 				<li>
@@ -75,7 +73,7 @@
 						</li>
 					</pawnKindEntries>
 					<factionDefs>
-						<li>ESCP_ChimerPlayerFaction_Medieval</li> 
+						<li>ESCP_ChimerPlayerFaction_Medieval</li>
 					</factionDefs>
 				</li>
 				<li>
@@ -88,11 +86,10 @@
 						</li>
 					</pawnKindEntries>
 					<factionDefs>
-						<li>ESCP_ChimerPlayerFaction_Tribal</li> 
+						<li>ESCP_ChimerPlayerFaction_Tribal</li>
 					</factionDefs>
 				</li>
 			</alienwandererkinds>
 		</pawnKindSettings>
 	</AlienRace.RaceSettings>
-
 </Defs>
