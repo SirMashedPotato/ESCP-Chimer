@@ -4,7 +4,8 @@
 		<defName>ESCP_ChimerCulture</defName>
 		<label>Chimeri</label>
 		<description>An ancient culture common among Chimer tribes.</description>
-		<pawnNameMaker>NamerPersonCorunan</pawnNameMaker>
+		<pawnNameMaker>ESCP_Chimer_NamerMale</pawnNameMaker>
+		<pawnNameMakerFemale>ESCP_Chimer_NamerFemale</pawnNameMakerFemale>
 		<ideoNameMaker MayRequire="Ludeon.RimWorld.Ideology">NamerIdeoCorunan</ideoNameMaker>
 		<deityNameMaker MayRequire="Ludeon.RimWorld.Ideology">ESCP_Chimer_NamerCultureDeityName</deityNameMaker>
 		<deityTypeMaker MayRequire="Ludeon.RimWorld.Ideology">ESCP_Chimer_NamerCultureDeityType</deityTypeMaker>
