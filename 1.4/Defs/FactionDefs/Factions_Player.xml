@@ -3,6 +3,7 @@
 	<!-- ========== [ESCP_PlayerFactionBase_Industrial] ========== -->
 	<FactionDef ParentName="ESCP_PlayerFactionBase_Industrial">
 		<defName>ESCP_ChimerPlayerFaction_Industrial</defName>
+		<label>New Chimer Arrivals</label>
 		<basicMemberKind>ESCP_ChimerPlayerPawnKind_Outlander</basicMemberKind>
 		<factionIconPath>World/WorldObjects/Expanding/ESCP_ChimerSettlement</factionIconPath>
 		<allowedCultures>
@@ -23,6 +24,7 @@
 	<!-- ========== [ESCP_ChimerPlayerFactionBase_Tribal] ========== -->
 	<FactionDef ParentName="ESCP_PlayerFactionBase_Medieval">
 		<defName>ESCP_ChimerPlayerFaction_Medieval</defName>
+		<label>New Chimer Kingdom</label>
 		<basicMemberKind>ESCP_ChimerPlayerPawnKind_Medieval</basicMemberKind>
 		<factionIconPath>World/WorldObjects/Expanding/ESCP_ChimerSettlement</factionIconPath>
 		<allowedCultures>
@@ -43,6 +45,7 @@
 	<!-- ========== [ESCP_ChimerPlayerFactionBase_Tribal] ========== -->
 	<FactionDef ParentName="ESCP_PlayerFactionBase_Tribal">
 		<defName>ESCP_ChimerPlayerFaction_Tribal</defName>
+		<label>New Chimer Tribe</label>
 		<basicMemberKind>ESCP_ChimerPlayerPawnKind_Tribal</basicMemberKind>
 		<factionIconPath>World/WorldObjects/Expanding/ESCP_ChimerSettlement</factionIconPath>
 		<allowedCultures>
