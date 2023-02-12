@@ -77,14 +77,6 @@
 								<options>
 									<li>
 										<weight>1</weight>
-										<only>(200, 200, 200,255)</only>
-									</li>
-									<li>
-										<weight>1</weight>
-										<only>(120, 120, 120,255)</only>
-									</li>
-									<li>
-										<weight>1</weight>
 										<only>(100, 40, 40,255)</only>
 									</li>
 									<li>
