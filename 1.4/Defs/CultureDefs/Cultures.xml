@@ -3,7 +3,7 @@
 	<CultureDef>
 		<defName>ESCP_ChimerCulture</defName>
 		<label>Chimeri</label>
-		<description>An ancient culture common among Chimer tribes.</description>
+		<description>An ancient culture common among the Chimer.</description>
 		<pawnNameMaker>ESCP_Chimer_NamerMale</pawnNameMaker>
 		<pawnNameMakerFemale>ESCP_Chimer_NamerFemale</pawnNameMakerFemale>
 		<ideoNameMaker MayRequire="Ludeon.RimWorld.Ideology">NamerIdeoCorunan</ideoNameMaker>
