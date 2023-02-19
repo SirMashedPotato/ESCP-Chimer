@@ -107,12 +107,12 @@
 			</thoughtSettings>
 			<raceRestriction>
 				<buildingList>
-					<li MayRequire="SirMashedPotato.ESCP.Dunmer">ESCP_DunmerAshlanderMummy</li>
+					<li MayRequire="SirMashedPotato.ESCP.Dunmer">ESCP_Dunmer_AshlanderMummy</li>
 				</buildingList>
 				<traitList>
-					<li MayRequire="SirMashedPotato.ESCP.Dunmer">ESCP_AlmalexiaBlessing</li>
-					<li MayRequire="SirMashedPotato.ESCP.Dunmer">ESCP_VivecBlessing</li>
-					<li MayRequire="SirMashedPotato.ESCP.Dunmer">ESCP_SothaSilBlessing</li>
+					<li MayRequire="SirMashedPotato.ESCP.Dunmer">ESCP_Dunmer_AlmalexiaBlessing</li>
+					<li MayRequire="SirMashedPotato.ESCP.Dunmer">ESCP_Dunmer_VivecBlessing</li>
+					<li MayRequire="SirMashedPotato.ESCP.Dunmer">ESCP_Dunmer_SothaSilBlessing</li>
 				</traitList>
 				<blackGeneList>
 					<li MayRequire="Ludeon.RimWorld.Biotech">ESCP_GeneInheritedBonus_Chimer</li>
