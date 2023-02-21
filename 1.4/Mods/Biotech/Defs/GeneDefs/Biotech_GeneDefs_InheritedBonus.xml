@@ -7,7 +7,7 @@
 		<iconPath>UI/Icons/Genes/ESCP_InheritedBonus/ESCP_GeneInheritedBonus_Chimer</iconPath>
 		<statOffsets>
 			<ComfyTemperatureMax>2</ComfyTemperatureMax>
-			<GlobalLearningFactor>0.1</GlobalLearningFactor>
+			<GlobalLearningFactor>0.05</GlobalLearningFactor>
 			<CertaintyLossFactor MayRequire="Ludeon.RimWorld.Ideology">-0.1</CertaintyLossFactor>
 		</statOffsets>
 		<displayOrderInCategory>4</displayOrderInCategory>
