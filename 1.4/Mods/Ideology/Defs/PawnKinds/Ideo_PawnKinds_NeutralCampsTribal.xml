@@ -7,9 +7,22 @@
 		<combatPower>35</combatPower>
 		<backstoryFiltersOverride>
 			<li>
-				<categoriesAdulthood Inherit="False">
-					<li>TribalMiner</li>
+				<categoriesChildhood>
+					<li>Outlander</li>
+					<li>ESCP_ChimerBackstory_Childhood</li>
+					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
+					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
+				</categoriesChildhood>
+				<categoriesAdulthood>
+					<li>ESCP_GenericBackstory_AdulthoodMedievalMiner</li>
+					<li>ESCP_ChimerBackstory_AdulthoodMiner</li>
 				</categoriesAdulthood>
+				<excludeChildhood>
+					<li>ESCP_ChimerBackstory_Exclusion</li>
+				</excludeChildhood>
+				<excludeAdulthood>
+					<li>ESCP_ChimerBackstory_Exclusion</li>
+				</excludeAdulthood>
 			</li>
 		</backstoryFiltersOverride>
 		<itemQuality>Poor</itemQuality>
@@ -36,9 +49,22 @@
 		<combatPower>35</combatPower>
 		<backstoryFiltersOverride>
 			<li>
-				<categoriesAdulthood Inherit="False">
-					<li>TribalFarmer</li>
+				<categoriesChildhood>
+					<li>Outlander</li>
+					<li>ESCP_ChimerBackstory_Childhood</li>
+					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
+					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
+				</categoriesChildhood>
+				<categoriesAdulthood>
+					<li>ESCP_GenericBackstory_AdulthoodMedievalFarmer</li>
+					<li>ESCP_ChimerBackstory_AdulthoodFarmer</li>
 				</categoriesAdulthood>
+				<excludeChildhood>
+					<li>ESCP_ChimerBackstory_Exclusion</li>
+				</excludeChildhood>
+				<excludeAdulthood>
+					<li>ESCP_ChimerBackstory_Exclusion</li>
+				</excludeAdulthood>
 			</li>
 		</backstoryFiltersOverride>
 		<itemQuality>Poor</itemQuality>

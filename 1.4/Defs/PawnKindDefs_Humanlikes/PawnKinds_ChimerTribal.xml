@@ -24,6 +24,9 @@
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
+				<excludeChildhood>
+					<li>ESCP_ChimerBackstory_Exclusion</li>
+				</excludeChildhood>
 				<excludeAdulthood>
 					<li>ESCP_ChimerBackstory_Exclusion</li>
 				</excludeAdulthood>
@@ -125,14 +128,22 @@
 		<defName>ESCP_Chimer_Tribal_Hunter</defName>
 		<label>hunter</label>
 		<combatPower>60</combatPower>
-		<backstoryFiltersOverride>
+		<backstoryFiltersOverride Inherit="False">
 			<li>
 				<categoriesChildhood>
-					<li>Tribal</li>
+					<li>ESCP_ChimerBackstory_Childhood</li>
+					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
-					<li>TribalHunter</li>
+					<li>ESCP_GenericBackstory_AdulthoodMedievalHunter</li>
+					<li>ESCP_ChimerBackstory_AdulthoodHunter</li>
 				</categoriesAdulthood>
+				<excludeChildhood>
+					<li>ESCP_ChimerBackstory_Exclusion</li>
+				</excludeChildhood>
+				<excludeAdulthood>
+					<li>ESCP_ChimerBackstory_Exclusion</li>
+				</excludeAdulthood>
 			</li>
 		</backstoryFiltersOverride>
 		<gearHealthRange>0.5~1.8</gearHealthRange>
