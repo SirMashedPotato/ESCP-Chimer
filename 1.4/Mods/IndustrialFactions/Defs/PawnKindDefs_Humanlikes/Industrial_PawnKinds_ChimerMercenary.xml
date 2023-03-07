@@ -20,14 +20,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -57,14 +55,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -95,14 +91,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -127,14 +121,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -162,14 +154,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -194,14 +184,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -229,14 +217,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -261,14 +247,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -296,14 +280,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -327,14 +309,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -363,14 +343,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -395,14 +373,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
@@ -430,14 +406,12 @@
 					<li>Outlander</li>
 					<li>ESCP_ChimerBackstory_Childhood</li>
 					<li>ESCP_GenericBackstory_ChildhoodMedieval</li>
-					<li>ESCP_GenericBackstory_ChildhoodHighClass</li>
 				</categoriesChildhood>
 				<categoriesAdulthood>
 					<li>Outlander</li>
 					<li>ESCP_GenericBackstory_AdulthoodMedieval</li>
 					<li>ESCP_GenericBackstory_AdulthoodHighClass</li>
 					<li>ESCP_GenericBackstory_AdulthoodMage</li>
-					<li>ESCP_GenericBackstory_AdulthoodSlaver</li>
 					<li>ESCP_ChimerBackstory_Adulthood</li>
 				</categoriesAdulthood>
 				<excludeChildhood>
